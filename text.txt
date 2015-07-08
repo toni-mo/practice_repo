@@ -2,3 +2,6 @@ smth good
 new text to test reset command
 and another line
 go go power rangers
+
+new local changes
+
