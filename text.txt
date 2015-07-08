@@ -1,1 +1,3 @@
 smth good
+new text to test reset command
+and another line
